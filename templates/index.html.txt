@@ -1,0 +1,10 @@
+!DOCTYPE html
+html
+head
+    titleMy Flask Apptitle
+head
+body
+    h1Hello from Flask!h1
+body
+html
+
